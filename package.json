@@ -1,0 +1,19 @@
+{
+  "name": "mongoexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "expres": "^0.0.5",
+    "mongoose": "^6.6.1",
+    "nodemon": "^2.0.20"
+  }
+}
